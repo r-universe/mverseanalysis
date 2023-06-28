@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/mverseanalysis/mverse
-	shallow = true
-	registered = true
 [submodule "ggupset"]
 	path = ggupset
 	url = https://github.com/const-ae/ggupset
-	shallow = true
 	registered = false
